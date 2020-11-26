@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Reaction Tester</title>
+    <style media="screen">
+      #shape {
+        width: 200px;
+        height: 200px;
+        background-color: rgb(255,255,0);
+        position: absolute;
+        top: 200px;
+        left: 200px;
+        border-radius: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Click on the shape as it appears.</p>
+    <div id="shape">
+
+    </div>
+    <p id="result"></p>
+    <script type="text/javascript">
+      var startTime = new Date().getTime();    var i = 1;
+
+      function generateShape() {
+        var red = Math.floor(Math.random() * 256);
+        var green = Math.floor(Math.random() * 256);
+        var blue = Math.floor(Math.random() * 256);
+        var color = "rgb(" + red + ", " + green + ", " + blue + ")" ;
+        var width = Math.floor(Math.random()*300);
+        var height = Math.floor(Math.random()*300);
+        var x = Math.floor(Math.random()*500);
+        var y = Math.floor(Math.random()*500);
+        document.getElementById("shape").style.backgroundColor = color;
+        document.getElementById("shape").style.width = width + "px";
+        document.getElementById("shape").style.height = height + "px" ;
+        document.getElementById("shape").style.top = y + "px";
+        document.getElementById("shape").style.left = x + "px";
+        i++
+      }
+
+        document.getElementById("shape").addEventListener("click", function() {
+          if (i==10) {
+            var endTime = new Date().getTime();
+            document.getElementById("result").innerHTML = "Your average response time is " + (endTime - startTime)/10 + "ms"; i++;}
+          else if (i<10) {generateShape()}}
+        );
+    </script>
+  </body>
+</html>
