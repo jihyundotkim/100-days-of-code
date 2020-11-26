@@ -5,8 +5,8 @@
     <title>Reaction Tester</title>
     <style media="screen">
       #shape {
-        width: 200px;
-        height: 200px;
+        width: 0px;
+        height: 0px;
         background-color: rgb(255,255,0);
         position: absolute;
         top: 200px;
@@ -20,9 +20,13 @@
     <div id="shape">
 
     </div>
+    <button id="myButton">Start!</button>
     <p id="result"></p>
     <script type="text/javascript">
-      var startTime = new Date().getTime();    var i = 1;
+    var startTime;
+    document.getElementById("myButton").onclick = function() {
+       startTime = new Date().getTime(); generateShape();}
+         var i = 1;
 
       function generateShape() {
         var red = Math.floor(Math.random() * 256);
@@ -40,6 +44,7 @@
         document.getElementById("shape").style.left = x + "px";
         i++
       }
+
 
         document.getElementById("shape").addEventListener("click", function() {
           if (i==10) {
