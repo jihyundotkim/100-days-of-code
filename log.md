@@ -1,4 +1,4 @@
-### Day 1: November 27, Monday
+### Day 1: November 27, Friday
 
 **Today's Progress**: I made a little response time tester.
 
@@ -7,7 +7,7 @@
 **Link(s) to work**
 1. [Day 1: Response Time Tester](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%201)
 
-### Day 1: November 27, Monday
+### Day 2: November 28, Saturday
 
 **Today's Progress**: I started 100 days of python course by Angela Yu. Did day 1 and day 2 as I did something else for day 1.
 
