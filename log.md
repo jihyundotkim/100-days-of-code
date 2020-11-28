@@ -16,3 +16,12 @@
 **Link(s) to work**
 1. [Day 1: Band Name Generator](https://repl.it/join/hpxuymqm-jihyundotkim)
 2. [Day 2: Tip Calculator](https://repl.it/join/sqfwjcqi-jihyundotkim)
+
+### Day 3: November 29, Sunday
+
+**Today's Progress**: I did day 3 of the python course and had a lot of fun. Things are starting to get a tiny bit more complicated, which I like.
+
+**Thoughts** I don't think I like strict indentation programming languages, but I'm starting to enjoy Python.
+
+**Link to work**
+1. [Day 3: Treasure Island](https://repl.it/join/wllvtxpq-jihyundotkim)
