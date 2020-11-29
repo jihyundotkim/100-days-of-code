@@ -25,3 +25,12 @@
 
 **Link to work**
 1. [Day 3: Treasure Island](https://repl.it/join/wllvtxpq-jihyundotkim)
+
+### Day 4: November 30, Monday
+
+**Today's Progress**: I did day 4 of the python course and made a rock paper scissors game. I also integrated Twitter API to my dashboard project to pull 5 tweets from my timeline and I also can tweet from my dashboard.
+
+**Thoughts** The python course is too easy so far. I hope it gets more challenging soon!
+
+**Link to work**
+1. [Day 4: Rock Paper Scissors](https://repl.it/@jihyundotkim/rock-paper-scissors-start)
