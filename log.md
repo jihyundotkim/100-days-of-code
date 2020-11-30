@@ -34,3 +34,12 @@
 
 **Link to work**
 1. [Day 4: Rock Paper Scissors](https://repl.it/@jihyundotkim/rock-paper-scissors-start)
+
+### Day 5: December 1, Tuesday
+
+**Today's Progress**: Day 5 of python and had a legitimately challenging exercise.
+
+**Thoughts** I got the end result right but I don't know if I did it the _right way_.
+
+**Link to work**
+1. [Day 5: Password Generator](https://repl.it/@jihyundotkim/password-generator-start)
