@@ -37,9 +37,20 @@
 
 ### Day 5: December 1, Tuesday
 
-**Today's Progress**: Day 5 of python and had a legitimately challenging exercise.
+**Today's Progress**: Day 5 of python and had a legitimately challenging exercise. I also made Bamboo Forest using Twitter API which allows users to tweet anonymously.
 
 **Thoughts** I got the end result right but I don't know if I did it the _right way_.
 
-**Link to work**
+**Links to work**
 1. [Day 5: Password Generator](https://repl.it/@jihyundotkim/password-generator-start)
+2. [Bamboo Forest](https://bamboo-forest.xyz/)
+
+
+### Day 6: December 2, Wednesday
+
+**Today's Progress**: Day 6 of python and the reeborg exercise was so much fun.
+
+**Thoughts** I also got the end result right but I don't know if I did it the _right way_.
+
+**Links to work**
+No link today!
