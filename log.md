@@ -53,4 +53,14 @@
 **Thoughts** I also got the end result right but I don't know if I did it the _right way_.
 
 **Links to work**
+
 No link today!
+
+### Day 7: December 3, Thursday
+
+**Today's Progress**: Day 7 of python and worked on an e-commerce mockup project.
+
+**Thoughts** It's starting to get challenging and I love it!
+
+**Link(s) to work**
+1. [Day 7: Hangman](https://repl.it/@jihyundotkim/Day-7-Hangman-5-Start)
