@@ -72,4 +72,4 @@ No link today!
 **Thoughts** I ended up doing it the "wrong" (i. e. more lines of code than necessary) way, but that's ok.
 
 **Link to work**
-1. [Day 8: Ceasar Encryption](https://repl.it/@jihyundotkim/caesar-cipher-3-start)
+1. [Day 8: Ceasar Encryption](https://repl.it/@jihyundotkim/caesar-cipher-4-start)
