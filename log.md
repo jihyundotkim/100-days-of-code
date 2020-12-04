@@ -58,7 +58,7 @@ No link today!
 
 ### Day 7: December 3, Thursday
 
-**Today's Progress**: Day 7 of python and worked on an e-commerce mockup project.
+**Today's Progress**: Day 7 of python and worked on an e-commerce mockup project as well.
 
 **Thoughts** It's starting to get challenging and I love it!
 
