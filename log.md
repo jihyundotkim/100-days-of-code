@@ -73,3 +73,12 @@ No link today!
 
 **Link to work**
 1. [Day 8: Ceasar Encryption](https://repl.it/@jihyundotkim/caesar-cipher-4-start)
+
+### Day 9: December 5, Saturday
+
+**Today's Progress**: Day 9 of python. Created a blind auction application.
+
+**Thoughts** This challenge was not very well thought out because it's supposed to be a python dictionary challenge and the dictionary is inessential to achieving the end result.
+
+**Link to work**
+1. [Day 9: Blind Auction](https://repl.it/@jihyundotkim/blind-auction-start)
