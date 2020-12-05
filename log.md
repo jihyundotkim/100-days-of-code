@@ -91,4 +91,4 @@ No link today!
 
 **Link to work**
 1. [Day 10: Calculator](https://repl.it/@jihyundotkim/calculator-start-1)
-2. [freeCodeCamp certification[(https://www.freecodecamp.org/certification/jihyundotkim/responsive-web-design)
+2. [freeCodeCamp certification](https://www.freecodecamp.org/certification/jihyundotkim/responsive-web-design)
