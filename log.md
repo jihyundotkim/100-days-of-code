@@ -82,3 +82,12 @@ No link today!
 
 **Link to work**
 1. [Day 9: Blind Auction](https://repl.it/@jihyundotkim/blind-auction-start)
+
+### Day 10: December 6, Sunday
+
+**Today's Progress**: Day 10 of python. 10% done, woohoo! Created my first calculator. A programmer milestone!
+
+**Thoughts** I love recursion and making codes efficient.
+
+**Link to work**
+1. [Day 10: Calculator](https://repl.it/@jihyundotkim/calculator-start-1)
