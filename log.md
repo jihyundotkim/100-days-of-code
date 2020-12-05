@@ -85,9 +85,10 @@ No link today!
 
 ### Day 10: December 6, Sunday
 
-**Today's Progress**: Day 10 of python. 10% done, woohoo! Created my first calculator. A programmer milestone!
+**Today's Progress**: Day 10 of python. 10% done, woohoo! Created my first calculator. A programmer milestone! Also, got my Responsive Web Design certification from freeCodeCamp.
 
 **Thoughts** I love recursion and making codes efficient.
 
 **Link to work**
 1. [Day 10: Calculator](https://repl.it/@jihyundotkim/calculator-start-1)
+2. [freeCodeCamp certification[(https://www.freecodecamp.org/certification/jihyundotkim/responsive-web-design)
