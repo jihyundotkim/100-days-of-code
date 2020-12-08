@@ -89,6 +89,15 @@ No link today!
 
 **Thoughts** I love recursion and making codes efficient.
 
-**Link to work**
+**Links to work**
 1. [Day 10: Calculator](https://repl.it/@jihyundotkim/calculator-start-1)
 2. [freeCodeCamp certification](https://www.freecodecamp.org/certification/jihyundotkim/responsive-web-design)
+
+### Day 11: December 8, Tuesday
+
+**Today's Progress**: Day 11 of Python. Created a blackjack game.
+
+**Thoughts** I don't even know how I missed a day. I have no concept of time. I'm still going to keep going.
+
+**Link to work**
+1. [Day 11: Blackjack](https://repl.it/@jihyundotkim/blackjack-start)
