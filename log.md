@@ -101,3 +101,12 @@ No link today!
 
 **Link to work**
 1. [Day 11: Blackjack](https://repl.it/@jihyundotkim/blackjack-start)
+
+### Day 12: December 9, Wednesday
+
+**Today's Progress**: I went ahead and did day 12 and 13 of Python to make up for a missed day.
+
+**Thoughts** Easier than the blackjack game.
+
+**Link to work**
+1. [Day 12: Number Guessing Game](https://github.com/jihyundotkim/100-days-of-code/blob/master/100daysofcode/Day%2013/NumberGuessingGame.py)
