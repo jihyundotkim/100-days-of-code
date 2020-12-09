@@ -110,3 +110,12 @@ No link today!
 
 **Link to work**
 1. [Day 12: Number Guessing Game](https://github.com/jihyundotkim/100-days-of-code/blob/master/100daysofcode/Day%2013/NumberGuessingGame.py)
+
+### Day 13: December 10, Thursday
+
+**Today's Progress**: Day 14 of Python! Made a higher lower game.
+
+**Thoughts** I'm getting impatient to move forward.
+
+**Link to work**
+1. [Day 14: Higher Lower Game](https://repl.it/@jihyundotkim/higher-lower-start)
