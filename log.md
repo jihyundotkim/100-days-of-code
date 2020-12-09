@@ -119,3 +119,4 @@ No link today!
 
 **Link to work**
 1. [Day 14: Higher Lower Game](https://repl.it/@jihyundotkim/higher-lower-start)
+2. [Day 15: Coffee Machine](https://github.com/jihyundotkim/100-days-of-code/blob/master/100daysofcode/Day%2013/CoffeeMachine.py)
