@@ -117,6 +117,15 @@ No link today!
 
 **Thoughts** I'm getting impatient to move forward.
 
-**Link to work**
+**Links to work**
 1. [Day 14: Higher Lower Game](https://repl.it/@jihyundotkim/higher-lower-start)
 2. [Day 15: Coffee Machine](https://github.com/jihyundotkim/100-days-of-code/blob/master/100daysofcode/Day%2013/CoffeeMachine.py)
+
+### Day 14: December 11, Friday
+
+**Today's Progress**: Object-oriented Python!
+
+**Thoughts** Was a bit confused at first but I managed to do it!
+
+**Link to work**
+1. [Day 16: OOP Coffee Machine](https://repl.it/@jihyundotkim/oop-coffee-machine-start)
