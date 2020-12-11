@@ -129,3 +129,12 @@ No link today!
 
 **Link to work**
 1. [Day 16: OOP Coffee Machine](https://repl.it/@jihyundotkim/oop-coffee-machine-start)
+
+### Day 14: December 12, Saturday
+
+**Today's Progress**: Got my JavsScript certification from freeCodeCamp!
+
+**Thoughts** JavaScript is SO HARD especially regex but I'm glad I completed the certification!
+
+**Link to work**
+1. [freeCodeCamp certification](https://www.freecodecamp.org/certification/jihyundotkim/javascript-algorithms-and-data-structures)
