@@ -130,7 +130,7 @@ No link today!
 **Link to work**
 1. [Day 16: OOP Coffee Machine](https://repl.it/@jihyundotkim/oop-coffee-machine-start)
 
-### Day 14: December 12, Saturday
+### Day 15: December 12, Saturday
 
 **Today's Progress**: Got my JavsScript certification from freeCodeCamp!
 
