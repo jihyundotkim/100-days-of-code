@@ -136,5 +136,6 @@ No link today!
 
 **Thoughts** JavaScript is SO HARD especially regex but I'm glad I completed the certification!
 
-**Link to work**
+**Links to work**
 1. [freeCodeCamp certification](https://www.freecodecamp.org/certification/jihyundotkim/javascript-algorithms-and-data-structures)
+2. [Open Trivia Database Quiz Generator](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%2015%20-%20Open%20Trivia%20Quiz%20Generator)
