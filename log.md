@@ -140,7 +140,7 @@ No link today!
 1. [freeCodeCamp certification](https://www.freecodecamp.org/certification/jihyundotkim/javascript-algorithms-and-data-structures)
 2. [Open Trivia Database Quiz Generator](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%2015%20-%20Open%20Trivia%20Quiz%20Generator)
 
-### Day 15: December 13, Saturday
+### Day 16: December 13, Saturday
 
 **Today's Progress**: Inspired by yesterday's trivia quiz generator, I made a trivia quiz generator with a better UI.
 
