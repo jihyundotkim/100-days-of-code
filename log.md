@@ -163,3 +163,12 @@ No link today!
 
 **Links to work**
 1.[Day 18: Turtle Spot Painting](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%2017%20-%20Turtle%20Spot%20Painting)
+
+### Day 19:  December 16, Wednesday
+
+**Today's Progress**: Day 19 of Python.
+
+**Thoughts** Getting bored of turtle now 🤣
+
+**Links to work**
+1. [Day 19: Turtle Race](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%2019)
