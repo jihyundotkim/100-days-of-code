@@ -140,7 +140,7 @@ No link today!
 1. [freeCodeCamp certification](https://www.freecodecamp.org/certification/jihyundotkim/javascript-algorithms-and-data-structures)
 2. [Open Trivia Database Quiz Generator](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%2015%20-%20Open%20Trivia%20Quiz%20Generator)
 
-### Day 16: December 13, Saturday
+### Day 16: December 13, Sunday
 
 **Today's Progress**: Inspired by yesterday's trivia quiz generator, I made a trivia quiz generator with a better UI.
 
@@ -148,3 +148,18 @@ No link today!
 
 **Links to work**
 1. [Trivia Quiz Generator](https://projects.jihyun.kim/trivia-quiz)
+
+### Day 17: December 14, Monday
+
+**Today's Progress**: Did Day 17 of Python and other than that I coded all day but ended up abandoning the project because the errors were getting out of hand.
+
+**Thoughts** Felt a bit down but I understand that this is the part of the journey.
+
+### Day 18: December 15, Tuesday
+
+**Today's Progress**: Did Day 18 of Python.
+
+**Thoughts** I put off this lesson because Turtle sounded unappealing but I ended up having a lot of fun with the challenges.
+
+**Links to work**
+1.[Day 18: Turtle Spot Painting](https://github.com/jihyundotkim/100-days-of-code/tree/master/100daysofcode/Day%2017%20-%20Turtle%20Spot%20Painting)
